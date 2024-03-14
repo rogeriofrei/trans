@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1
+https://edge15-ams.live.mmcdn.com/live-hls/amlst:alicetgirlbr-sd-baa8f125dfb8ebe1fc4e31c9efeb15c53013f06123dece13e554dc1263cc43a7_trns_h264/chunklist_w1092803379_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-2
+https://edge10-ams.live.mmcdn.com/live-hls/amlst:sultrytranny__-sd-ae63cfa67c6c6122fb04db1d76e3ab11fcab18a58f008158cc76f51c862a10ff_trns_h264/chunklist_w2136163141_b5128000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-3
+https://edge22-ams.live.mmcdn.com/live-hls/amlst:fuck_party_xxx-sd-01c7283d7f7451305fbf674aab99b824d1db297a32384e3ccb780bcb286484c1_trns_h264/chunklist_w1834749192_b5128000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-4
+https://edge19-mad.live.mmcdn.com/live-hls/amlst:bellabearts-sd-a9a5bfe7c45ec056e7e752840b0e85ec4663faf09685b51bc32c85f0187a8fe3_trns_h264/chunklist_w2013125763_b5128000_t64RlBTOjMwLjA=.m3u8
+
